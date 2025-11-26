@@ -104,6 +104,20 @@ These are the same beginner skills real cloud engineers use every single day on 
 
 ---
 
+## 🖼 Day 1 Practice Screenshots
+
+These screenshots show the hands-on work I completed today:  
+creating directories, navigating the filesystem, creating and moving files, copying and deleting files, and returning to the home directory confidently.
+
+### **Screenshot 1 — Creating directories & navigating**
+
+### **Screenshot 2 — File operations & review**
+
+
+---
+
+
+
 ## 📅 Next Steps: Day 2 Preview
 - Users & groups  
 - Permissions  
